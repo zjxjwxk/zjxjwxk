@@ -1,5 +1,8 @@
-### Hi there 👋
+- 📖 Postgraduate student at ZJU (major in Software Engineering).
+- 🍭 Interested in Back-end and Blockchain.
 
+| ![Zjxjwxk's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjxjwxk&show_icons=true&include_all_commits=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zjxjwxk&hide=html,css,php,vue&layout=compact) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 <!--
 **zjxjwxk/zjxjwxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
