@@ -1,4 +1,4 @@
-| [![Zjxjwxk's GitHub stats](http://github-readme-stats-cyan-six-knhvuo97r7.vercel.app/api?username=zjxjwxk&show_icons=true&include_all_commits=true)](https://github.com/zjxjwxk) | [![Top Langs](http://github-readme-stats-cyan-six-knhvuo97r7.vercel.app/api/top-langs/?username=zjxjwxk&hide=html,css,php,vue&layout=compact)](https://github.com/zjxjwxk) |
+| [![Zjxjwxk's GitHub stats](http://github-readme-stats-cyan-six-knhvuo97r7.vercel.app/api?username=zjxjwxk&show_icons=true&include_all_commits=true)](https://github.com/zjxjwxk) | [![Top Langs](http://github-readme-stats-cyan-six-knhvuo97r7.vercel.app/api/top-langs/?username=zjxjwxk&hide=html,css,php,vue,scss&layout=compact)](https://github.com/zjxjwxk) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 <!--
 **zjxjwxk/zjxjwxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
